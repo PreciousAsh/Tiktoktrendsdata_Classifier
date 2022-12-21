@@ -1,5 +1,5 @@
 # Tiktoktrends_Classifier
-This TikTok Trend Classifier..
+This TikTok Trend Classifier that shows you the tiktok trends 
 
 #The Process:
 
